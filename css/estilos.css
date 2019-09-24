@@ -22,13 +22,8 @@ body{
 .main-titulo{
   font-family: gameFont;
   font-size: 3em;
-  width: 100%;
-}
-.titulo-amarillo{
   color: #DCFF0E;
-}
-.titulo-blanco{
-  color: white;
+  width: 100%;
 }
 
 .panel-tablero{
@@ -107,4 +102,5 @@ div[class^='col']{
 .elemento{
   width: 99.4px;
   height: 96px;
+
 }
